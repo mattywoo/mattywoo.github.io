@@ -4,14 +4,17 @@
 **This repository contains the following artifacts developed and enhanced as part of my coursework:**
 
 **TaskService and ContactService**
+
         These artifacts implement core CRUD (Create, Read, Update, Delete) operations for managing tasks and contacts.
-        Enhancements include the addition of new methods such as updateTaskName, updateTaskDescription, updatePhoneNumber, and setStatus. These updates improved functionality and               usability while maintaining clean code and adherence to object-oriented principles.
+        Enhancements include the addition of new methods such as updateTaskName, updateTaskDescription, updatePhoneNumber, and setStatus. These updates improved functionality and               usability while maintaining clean code and adherence to object oriented principles.
 
 **Appointment Management System**
+
         This artifact is a scheduling system designed to manage and organize appointments efficiently.
         Enhancements focused on refining input validation, improving the user interface (via console interactions), and adding robust error handling to accommodate various edge cases.
 
 **JUnit Tests**
+
         Comprehensive JUnit test cases were developed for TaskService, ContactService, and individual Task and Contact objects.
         These tests ensure the reliability of each method, validating that the code handles expected and edge case scenarios effectively.
 
@@ -22,10 +25,10 @@ TaskService & ContactService**
         Methods for adding, deleting, updating, and retrieving data.
         Input validation to ensure data consistency and integrity.
 
-**Appointment Management System
-**
+**Appointment Management System**
+
         Handles appointment scheduling with functionality for adding, updating, and removing appointments.
-        Focus on real-world use cases, such as preventing conflicts and ensuring user-friendly workflows.
+        Focus on real world use cases, such as preventing conflicts and ensuring user friendly workflows.
 
 **Unit Testing**
 

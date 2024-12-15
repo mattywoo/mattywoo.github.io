@@ -1,12 +1,12 @@
 # mattywoo.github.io
-**Overview**
+## **Overview**
 
 **This repository contains the following artifacts developed and enhanced as part of my coursework:**
 
 **TaskService and ContactService**
 
         These artifacts implement core CRUD (Create, Read, Update, Delete) operations for managing tasks and contacts.
-        Enhancements include the addition of new methods such as updateTaskName, updateTaskDescription, updatePhoneNumber, and setStatus. These updates improved functionality and               usability while maintaining clean code and adherence to object oriented principles.
+        Enhancements include the addition of new methods such as updateTaskName, updateTaskDescription, updatePhoneNumber, and setStatus. These updates improved functionality and usability while maintaining clean code and                  adherence to object oriented principles.
 
 **Appointment Management System**
 
@@ -57,5 +57,8 @@ TaskService & ContactService**
         Run the JUnit test classes to verify functionality or execute the main classes to explore the program's features.
 
 These artifacts showcase my abilities in software design, implementation, and testing. Each enhancement reflects my growth as a developer and my ability to deliver reliable, user-focused software solutions.
+
+_**The zip files provided with the word Milestone associated with it are the indications that have been provided for the progress from the beginning of the course throughout the entirety. It shows enhancements and reflections
+of each milestone as I polished and redesigned the artifacts.**_
 
 Additional work can be found @https://github.com/mattywoo/mattywoo.github.io
